@@ -1,3 +1,13 @@
+vyatta-cfg-dhcp-server (0.12.36+osvx1+projectx1) trusty; urgency=medium
+
+  [ Geoff Wright ]
+  * Bug #188: Allow domain-search option for dhcp-server
+
+  [ Valentin Yakovenkov ]
+  * Switch to OS/VX
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Sun, 01 Jun 2014 20:38:56 +0400
+
 vyatta-cfg-dhcp-server (0.12.36+vyos1+helium3) unstable; urgency=low
 
   * Bug #87: Add allowed values completion for "authoritative
